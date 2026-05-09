@@ -51,7 +51,7 @@ The app allows users to explore:
 │   ├── eda_figures/
 │   ├── feature_engineer_result/
 │   ├── modeling_outputs/
-│   ├── numerical_output/
+│   ├── numercial_output/
 │   └── unsupervised_analysis_result/
 └── report/
     ├── main.tex
@@ -61,7 +61,10 @@ The app allows users to explore:
     ├── modeling_return_plot/
     ├── numerical_validation_plot/
     └── unsupervised_analysis_plot/
-    
+```
+
+---
+
 ## Main Files and Folders
 
 ### `app.R`
