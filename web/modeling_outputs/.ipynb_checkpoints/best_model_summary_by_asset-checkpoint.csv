@@ -1,0 +1,7 @@
+MSE,RMSE,MAE,R2,Directional Accuracy,Asset,Model,Best Params
+1.7153091200575568e-05,0.004141629051541865,0.003098482482475946,-0.0010605137884260873,0.49636363636363634,USD Index,Random Forest,"{'n_estimators': 300, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'max_depth': 3}"
+0.00017251324652200605,0.013134429813357185,0.009075749621344956,-0.0113814602140756,0.5581818181818182,Gold,Random Forest,"{'n_estimators': 300, 'min_samples_leaf': 20, 'max_features': 'sqrt', 'max_depth': 3}"
+0.00038224175553541647,0.01955100395210989,0.015056297585752408,-0.03592322558033634,0.49272727272727274,WTI Oil,Random Forest,"{'n_estimators': 300, 'min_samples_leaf': 20, 'max_features': 'sqrt', 'max_depth': 3}"
+0.0008744488475851705,0.029571081271829922,0.018102560076188358,0.03274553910769962,0.4763636363636364,Silver,Hist Gradient Boosting,"{'min_samples_leaf': 10, 'max_leaf_nodes': 15, 'max_iter': 100, 'learning_rate': 0.01, 'l2_regularization': 0.01}"
+0.001005013226744194,0.031701943579916264,0.023145976352962793,-0.011499157920075165,0.4709090909090909,Bitcoin,Random Forest,"{'n_estimators': 300, 'min_samples_leaf': 5, 'max_features': 'sqrt', 'max_depth': 3}"
+0.001981168410395029,0.044510318021724234,0.03222996860606334,-0.009862170518385227,0.4672727272727273,Ethereum,Random Forest,"{'n_estimators': 300, 'min_samples_leaf': 5, 'max_features': 0.5, 'max_depth': 3}"
